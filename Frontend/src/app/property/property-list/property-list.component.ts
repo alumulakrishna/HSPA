@@ -9,7 +9,7 @@ export class PropertyListComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
